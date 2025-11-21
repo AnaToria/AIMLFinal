@@ -1,5 +1,3 @@
-# Task 2: Transformer Networks in Cybersecurity
-
 ## Description of the Transformer Network
 
 Transformers are a deep learning architecture introduced in the 2017 paper "Attention Is All You Need". They were designed to address limitations of earlier sequence models such as RNNs and LSTMs, which processed data sequentially and struggled with long-range dependencies. The Transformer processes all input tokens in parallel and relies on the attention mechanism to model relationships between elements of a sequence. This architecture has become the foundation for modern language models, including BERT, GPT, and T5, and is now widely applied across domains such as NLP, vision, audio analysis, and cybersecurity.
